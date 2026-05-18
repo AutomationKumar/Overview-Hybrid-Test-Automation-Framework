@@ -1,0 +1,53 @@
+Enterprise-level Hybrid Automation Framework developed using Selenium WebDriver, Java, TestNG, Maven, Jenkins, Docker, and Rest Assured for scalable UI and API automation testing.
+This framework is designed to support robust, maintainable, and high-performance test automation execution across multiple environments with CI/CD integration.
+
+Key Highlights:
+✔ Hybrid Framework Architecture
+✔ Page Object Model (POM) Design Pattern
+✔ Cross-Browser Testing Support
+✔ Parallel Test Execution
+✔ API Automation using Rest Assured
+✔ Jenkins CI/CD Pipeline Integration
+✔ Docker-based Test Execution
+✔ Reusable Utility Components
+✔ Dynamic XPath Handling
+✔ Extent Reporting & Screenshot Capture
+✔ Data-Driven Testing Support
+✔ Maven Dependency Management
+✔ Git & GitHub Version Control Integration
+✔ Scalable and Maintainable Framework Design
+
+Tech Stack:
+• Java
+• Selenium WebDriver
+• TestNG
+• Maven
+• Jenkins
+• Docker
+• Rest Assured
+• GitHub
+• SQL
+
+Framework Architecture:
+src/main/java
+src/test/java
+pages
+utilities
+testdata
+reports
+resources
+testng.xml
+pom.xml
+Jenkinsfile
+Dockerfile
+
+Framework Capabilities:
+• UI Automation Testing
+• API Automation Testing
+• Regression Testing
+• Smoke Testing
+• Sanity Testing
+• Parallel Execution
+• Dynamic Web Element Handling
+• Reporting & Logging
+• Continuous Integration Support
